@@ -7,7 +7,11 @@ Skills: HTML / CSS / BOOTSTRAP / JAVASCRIPT / JQUERY / PHP / LARAVEL
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mehedihasan600/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/md.mehedi.hasan.158871/)
 
-![stats](https://github-readme-stats-mu-ten.vercel.app/api?username=mehedi5051&theme=dark) 
+
+
+![Mehedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehedi5051&show_icons=true&hide_border=false&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi5051&layout=compact&theme=default)
+
 
 
 
