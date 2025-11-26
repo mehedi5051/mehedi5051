@@ -11,6 +11,7 @@ Skills: HTML / CSS / BOOTSTRAP / JAVASCRIPT / JQUERY / PHP / LARAVEL
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?mehedi5051=YOUR_mehedi5051&show_icons=true&hide_border=false&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedi5051&show_icons=true&hide_border=false&theme=radical)
+
 
 
