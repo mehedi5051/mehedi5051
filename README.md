@@ -29,13 +29,12 @@ I love building clean, scalable and production-ready web applications.
 ![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=mehedi5051&show_icons=true&theme=tokyonight)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi5051&layout=compact&theme=tokyonight)
 
----
 
 ## 🌐 Connect with Me
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="40">](https://www.linkedin.com/in/mehedihasan600/)
