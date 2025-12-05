@@ -30,10 +30,9 @@ I love building clean, scalable and production-ready web applications.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
+![Stats](https://github-readme-stats-bay.vercel.app/api?username=mehedi5051&show_icons=true&theme=tokyonight)
+![Langs](https://github-readme-stats-bay.vercel.app/api/top-langs/?username=mehedi5051&layout=compact&theme=tokyonight)
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=mehedi5051&show_icons=true&theme=tokyonight)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi5051&layout=compact&theme=tokyonight)
 
 
 ## 🌐 Connect with Me
