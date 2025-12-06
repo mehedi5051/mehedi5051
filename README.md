@@ -3,7 +3,7 @@
 ![banner](https://media.licdn.com/dms/image/v2/D4E16AQGAu6Fy8DZbhw/profile-displaybackgroundimage-shrink_350_1400/B4EZrAxXukHMAc-/0/1764170761841?e=1766016000&v=beta&t=Duvd51FTOgNHlgpT30g3e-ebcvrYD10NoLvK8rVpcog)
 
 ## 🚀 About Me
-I'm a passionate **Full-Stack Web Developer (PHP & Laravel Focused)**  
+I'm a passionate **Backend Web Developer (PHP & Laravel Focused)**  
 I love building clean, scalable and production-ready web applications.
 
 ---
